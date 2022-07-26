@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit Nain
 - 👀 I’m interested in Coding and playing Soccer.
 
-I am an experienced Software Engineer with a demonstrated history of working in the Information Technology and Services Industry, I have worked under several US clients, that gave me a deep insight of workflow starting from Requirement phase till Deployment phase. I have delivered several POC’s successfully and have been part of the R&D group. I have good knowledge of data structures and algorithms. I am a quick learner and work constantly on enhancing my skills. My major contribution to the IT industry is in the field of Big Data Development , BackEnd development and API integration using mulesoft.
+I am an experienced Software Engineer with a demonstrated history of working in the Information Technology and Services Industry, I have worked under several US clients, that gave me a deep insight of workflow starting from Requirement phase till Deployment phase. I have delivered several POC’s successfully and have been part of the R&D group. I have good knowledge of data structures and algorithms. I am a quick learner and work constantly on enhancing my skills.
 
 Technical Skills:
 1.	 Languages: C++, Java, Scala, Python, SQL, Node JS.
